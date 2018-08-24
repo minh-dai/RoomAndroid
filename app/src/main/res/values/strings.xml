@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RoomAndSqlite</string>
+    <string name="hint_word">Word Name</string>
+    <string name="button_add">Add</string>
+    <string name="button_show">Show</string>
+    <string name="text_null">null</string>
 </resources>
